@@ -4,7 +4,7 @@ on:
     types: [opened, edited]
   pull_request:
     types: [opened, edited]
-  issue_comments
+  issue_comments:
     types: [created, edited]
   
 jobs:
